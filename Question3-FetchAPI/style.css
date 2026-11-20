@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ede7f6;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px gray;
+}
+
+#quote {
+    font-size: 20px;
+    color: darkblue;
+    margin: 25px;
+}
+
+#author {
+    color: green;
+}
+
+button {
+    padding: 12px 25px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
